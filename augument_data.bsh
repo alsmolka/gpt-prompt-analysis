@@ -1,0 +1,1 @@
+generate_prompted_data.py "mrpc" "./DATA/TARGET_DATASET/test.json" "./DATA/basic_paraphrase_prompts.json" "zero_shot"

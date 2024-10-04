@@ -1,0 +1,1 @@
+python GPT_answers.py ./PROMPT_DATA/PROMPTED_SAMPLES ./RESULTS
